@@ -1,7 +1,5 @@
 
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Hadar Neulander</h1>
-<h3 align="center">A passionate Devops engineer from Israel</h3>
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Jenkins**
 
