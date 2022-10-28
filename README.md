@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Docker, Kubernetes, Jenkins**
 
-- 💬 Ask me about **Linux, Python**
+- 💬 Ask me about **Linux, Bash, Python**
 
 - 📫 How to reach me **hadarnoylander@gmail.com**
 
