@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HadarNeu
 - 🔭 I’m currently working on **Improving my Devops skills**
-- 🌱 I’m currently learning Docker, Kubernetes, Terraform, Jenkins and more.
+- 🌱 I’m currently learning **Docker, Kubernetes, Terraform, Jenkins** and more.
 - 👀 I’m interested in 🎼📃🏞️🏃🏼‍♀️🖥️🏄🏼‍♀️
 
 <!---
