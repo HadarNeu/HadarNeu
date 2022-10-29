@@ -1,7 +1,7 @@
 
 ![Header](./github-header-image.png)
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Jenkins**
+- 🌱 I’m currently learning **Docker, Ansible, Jenkins**
 
 - 💬 Ask me about **Linux, Bash, Python**
 
