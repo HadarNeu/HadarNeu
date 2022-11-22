@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hadarnotnoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hadarnotnoy" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/hadarnotnoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hadarnotnoy" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/hadarneulander" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadarneulander" height="30" width="40" /></a>
 </p>
 
