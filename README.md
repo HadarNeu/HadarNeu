@@ -1,9 +1,9 @@
 
 ![Header](./github-header-image.png)
 
-- 🌱 I’m currently learning **Docker, Ansible, Terraform, Jenkins**
+- 🌱 I’m currently learning **Kubernetes, Ansible, Terraform, Jenkins**
 
-- 💬 Ask me about **Linux, Bash, Python**
+- 💬 Ask me about **AWS, Linux, Bash, Python, Docker, Networks**
 
 - 📫 How to reach me **hadarnoylander@gmail.com**
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/5c/8f/08/5c8f08b5fe55e12baae6fc54e46c343a.gif">
